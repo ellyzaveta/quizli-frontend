@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# ☑️ QUIZLI APP - Quiz builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### ⚙️ Backend: https://github.com/ellyzaveta/quizli-backend
+#### 🪄 Frontend: https://github.com/ellyzaveta/quizli-frontend
+<br />
+<br />
 
-## Available Scripts
+## 🧩 About
+- interface for quiz creating
+- form for collecting answers
+- access to the quiz by a slug 
+- recording user's answers and IP address
+- user's statistics
 
-In the project directory, you can run:
+slugs: 
+  * creating quiz:            …/quiz/create
+  * access to existing quiz:  …/quiz/quiz_code
 
-### `npm start`
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🔗 Stack of used technologies
+- Front-end:
+  * React.js
+  * HTML + CSS + JS
+- Back-end:
+  * Java
+  * SpringBoot
+  * MongoDB
+  * Docker
+  * Maven
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br />
 
-### `npm test`
+## 📸 Screens 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br />
 
-### `npm run build`
+|                            |
+| -------------------------- |
+| Quiz creation - start page |
+|![starter](https://github.com/ellyzaveta/test2/assets/90642224/587b0422-a95a-404c-880e-352e6720bf85)|             
+|      Quiz builder page     |
+| ![quiz-builder](https://github.com/ellyzaveta/test2/assets/90642224/08a936d0-985e-4be0-959d-213b0bc40bee) |
+|          Statistics        |
+| ![stat](https://github.com/ellyzaveta/test2/assets/90642224/a0512e60-b997-40d4-979b-aef6a8501cb1) |
+|          Share form        |
+| ![share-form](https://github.com/ellyzaveta/test2/assets/90642224/bd8109c7-fbb8-449e-b748-11911bd2aa6a) |
+|     Quiz submission form   |
+| ![submission](https://github.com/ellyzaveta/test2/assets/90642224/1e58e477-1865-4ac7-aab3-852f432b0d40) |
+|          User score        |
+| ![score](https://github.com/ellyzaveta/test2/assets/90642224/e3a82a35-47c1-4391-a473-c5bcd23ed442) |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
