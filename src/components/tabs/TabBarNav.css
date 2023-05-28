@@ -1,0 +1,23 @@
+.nav-item {
+    background-color: transparent;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    outline: none;
+    font-weight: 400;
+    font-size: 14px;
+    color: rgba(169, 189, 202, 1);
+}
+  
+.nav-item.active {
+    box-sizing: border-box;
+    border-bottom: 2px solid rgba(77, 45, 128, 1);
+    font-weight:600;
+    color: rgba(77, 45, 128, 1);
+}
+  
+.vertical .nav-item {
+    border-radius: 5px 0 0 5px;
+}

@@ -1,0 +1,26 @@
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+}
+
+.buttons Button {
+    width: 100px;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.mes {
+    background-color:  rgba(180, 189, 202, 0.13);
+    border-radius: 0 0 10px 10px;
+    padding: 20px 300px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(169, 189, 202, 1);
+}

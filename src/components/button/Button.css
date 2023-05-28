@@ -1,0 +1,27 @@
+.btn {
+    text-decoration: none;
+    justify-content: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    padding: 5px 80px;
+    max-width: 345px;
+    max-height: 54px;
+    box-sizing: border-box;
+    background: transparent;
+    transition: 0.3s; 
+    border: 1px solid rgba(169, 189, 202, 1);
+    color: rgba(169, 189, 202, 1);
+    border-radius: 10px;
+}
+  
+.btn:hover {
+    border: 1px solid rgba(77, 45, 128, 1);
+    color:  rgba(77, 45, 128, 1);
+}
+  
+.btn[disabled] {
+    opacity: .5;
+    cursor: not-allowed;
+}

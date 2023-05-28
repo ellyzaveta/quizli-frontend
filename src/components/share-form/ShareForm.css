@@ -1,0 +1,67 @@
+.share-form-content {
+    margin-top: 50px;
+    padding: 80px 200px;
+}
+
+.content-frame {
+    border: 0.5px solid rgba(169, 189, 202, 1);
+    border-radius: 10px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-bottom: 150px;
+    
+}
+
+.share-form-content h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px;
+    color: #4D2D80;
+}
+
+.share-form-content p {
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.045em;
+
+    color: #4D2D80;
+}
+
+fieldset {
+    margin-top: 20px;
+    border: 1px solid rgba(169, 189, 202, 1);
+    padding: 5px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    color: rgba(169, 189, 202, 1);
+}
+
+legend {
+    margin-left: 40px;
+    color: rgba(169, 189, 202, 1);
+    font-size: 14px;
+}
+
+.text {
+    margin-left: 40px;
+    font-size: 18px;
+}
+
+.desc {
+    margin-top: 10px;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.copy-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.close-button {
+    margin-top: 40px;
+    float: right;
+}

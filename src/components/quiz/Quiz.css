@@ -1,0 +1,104 @@
+.question-form-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 33px;
+}
+
+.question-form-top-name {
+    width: 31%;
+    text-decoration: none;
+    justify-content: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    padding: 5px 20px;
+    box-sizing: border-box;
+    background: transparent;
+    border: 1px solid rgba(169, 189, 202, 1);
+    color: rgba(169, 189, 202, 1);
+    border-radius: 7px;
+}
+
+.error {
+    border: 1px solid red;
+  }
+
+.question-form-top-desc {
+    width: 60%;
+    margin-left: 1%;
+    text-decoration: none;
+    justify-content: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    padding: 5px 20px;
+    box-sizing: border-box;
+    background: transparent;
+    border: 1px solid rgba(169, 189, 202, 1);
+    color: rgba(169, 189, 202, 1);
+    border-radius: 7px;
+}
+
+.question-form-top-name:focus{
+    outline: none !important;
+    border: 1px solid rgba(77, 45, 128, 1);
+    color:  rgba(77, 45, 128, 1);
+}
+
+.question-form-top-desc:focus{
+    outline: none !important;
+    border: 1px solid rgba(77, 45, 128, 1);
+    color:  rgba(77, 45, 128, 1);
+}
+
+.question-form-top Button {
+    margin-left: 1%;
+    border-radius: 7px;
+    width: 7%;
+    padding: 5px 5px;
+}
+
+.question-form-top-desc::placeholder{
+    color: rgba(147, 157, 160, 1);
+}
+
+.question-form-top-name::placeholder{
+    color: rgba(147, 157, 160, 1);
+}
+
+.title-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    border-bottom: 0.5px solid  rgba(77, 45, 128, 1);;
+    margin-top: 25px;
+}
+
+.title-button Button {
+    border-radius: 7px;
+    width: 6.5%;
+    padding: 5px 5px;
+}
+
+.quiz-name {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 54px;
+    letter-spacing: 0.045em;
+    color:  rgba(77, 45, 128, 1);
+}
+
+.title p {
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.045em;
+    color:  rgba(77, 45, 128, 1);
+}
+
+

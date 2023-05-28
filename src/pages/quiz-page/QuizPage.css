@@ -1,0 +1,15 @@
+.text-justify {
+    text-align: justify;
+    margin-top: 30px;
+    color: rgba(149, 157, 159, 1);
+}
+
+.frame {
+    margin-top: 50px;
+    border: 0.5px solid rgba(169, 189, 202, 1);
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}

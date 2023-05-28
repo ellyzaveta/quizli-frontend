@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gurmukhi MN', serif;
+    font-style: normal;
+    text-decoration: none;
+    letter-spacing: 0.045em;
+    font-weight: 400;
+}
+
+.form-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px calc(calc(100% - 1240px)/2) 0px;
+}
+
+.form-header-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form-header-logo h2 {
+    margin-left: 15px;
+    font-family: 'MoLisa TYGRA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    background: linear-gradient(90deg, #4D2D80 0%, #A9BDCA 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-emphasis-color: transparent;
+}
+
+.form-header-logo img:hover {
+    filter: invert(0);
+}
+
+
+
+

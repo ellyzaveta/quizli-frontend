@@ -1,0 +1,34 @@
+.page-content {
+    padding: 60px 122px 100px;
+}
+
+.title {
+    margin-bottom: 70px;
+}
+
+.submit-button {
+    margin-top: 20px;
+    float: right;
+}
+
+.form-header-logo-buttom {
+    margin-top: 150px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.form-header-logo-buttom h2 {
+    margin-left: 15px;
+    font-family: 'MoLisa TYGRA';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    background: linear-gradient(90deg, #4D2D80 0%, #A9BDCA 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-emphasis-color: transparent;
+}
+

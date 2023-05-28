@@ -1,0 +1,10 @@
+.tab-bar-item {
+    height: 0;
+    overflow: hidden;
+    font-size: 14px;
+}
+  
+.tab-bar-item.active {
+    height: auto;
+}
+  

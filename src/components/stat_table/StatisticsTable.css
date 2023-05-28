@@ -1,0 +1,79 @@
+.stat-content {
+    padding: 50px 122px;
+}
+
+table { 
+    border: 0.5px solid rgba(169, 189, 202, 1);
+    border-collapse: separate;
+    border-left: 0;
+    border-radius: 10px;
+    border-spacing: 0px;
+    width: 100%;
+    color: rgba(147, 157, 160, 1);
+    font-size: 16px;
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+    border-collapse: separate;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    text-align: center;
+}
+
+th, td {
+    padding: 14px; 
+    text-align: left;
+    vertical-align: top;
+    border-left: 0.5px solid rgba(169, 189, 202, 1);    
+    text-align: center;
+}
+
+th {
+    background-color: rgba(169, 189, 202, 0.13);
+    border-radius: 0 10px 0 0;
+    color: rgba(77, 45, 128, 1);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+td {
+    border-top: 0.5px solid rgba(169, 189, 202, 1);    
+}
+
+tr:hover {
+    color:rgba(77, 45, 128, 1);  
+    background-color: rgba(169, 189, 202, 0.13);
+}
+
+thead:first-child tr:first-child th:first-child, tbody:first-child tr:first-child td:first-child {
+    border-radius: 10px 0 0 0;
+}
+
+thead:last-child tr:last-child th:first-child, tbody:last-child tr:last-child td:first-child {
+    border-radius: 0 0 0 10px;
+}
+
+td:hover {
+    color: inherit;  
+    background-color: transparent;
+    cursor: default;
+}
+
+tr.disabled:hover {
+    color: inherit;  
+    background-color: transparent;
+    cursor: default;
+}
+
+.text-justify {
+    text-align: justify;
+    margin-top: 30px;
+    color: rgba(149, 157, 159, 1);
+}
