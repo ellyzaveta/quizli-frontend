@@ -38,16 +38,17 @@ slugs:
 |                            |
 | -------------------------- |
 | Quiz creation - start page |
-|![starter](https://github.com/ellyzaveta/test2/assets/90642224/587b0422-a95a-404c-880e-352e6720bf85)|             
+| <img alt="starter" src="https://github.com/ellyzaveta/quizli-backend/blob/cb7fae3f8de718c17a13ff0868d352f3ec227629/skreens/starter.png">| 
 |      Quiz builder page     |
-| ![quiz-builder](https://github.com/ellyzaveta/test2/assets/90642224/08a936d0-985e-4be0-959d-213b0bc40bee) |
+| <img alt="builder" src="https://github.com/ellyzaveta/quizli-backend/blob/cb7fae3f8de718c17a13ff0868d352f3ec227629/skreens/quiz-builder.png"> |
 |          Statistics        |
-| ![stat](https://github.com/ellyzaveta/test2/assets/90642224/a0512e60-b997-40d4-979b-aef6a8501cb1) |
+|<img alt="stat" src="https://github.com/ellyzaveta/quizli-backend/blob/cb7fae3f8de718c17a13ff0868d352f3ec227629/skreens/stat.png">|
 |          Share form        |
-| ![share-form](https://github.com/ellyzaveta/test2/assets/90642224/bd8109c7-fbb8-449e-b748-11911bd2aa6a) |
+|<img alt="share" src="https://github.com/ellyzaveta/quizli-backend/blob/cb7fae3f8de718c17a13ff0868d352f3ec227629/skreens/share-form.png">|
 |     Quiz submission form   |
-| ![submission](https://github.com/ellyzaveta/test2/assets/90642224/1e58e477-1865-4ac7-aab3-852f432b0d40) |
+|<img alt="submit" src="https://github.com/ellyzaveta/quizli-backend/blob/cb7fae3f8de718c17a13ff0868d352f3ec227629/skreens/submission.png">|
 |          User score        |
-| ![score](https://github.com/ellyzaveta/test2/assets/90642224/e3a82a35-47c1-4391-a473-c5bcd23ed442) |
+|<img alt="score" src="https://github.com/ellyzaveta/quizli-backend/blob/cb7fae3f8de718c17a13ff0868d352f3ec227629/skreens/score.png">|
+
 
 
